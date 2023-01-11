@@ -15,4 +15,4 @@
 
 my_string = input("Введите слова через пробел: ").split()
 for i, el in enumerate(my_string, 1):
-    print(f'{i}.{el[:10]}')
+    print(f'{i}.{el[:10]}'
